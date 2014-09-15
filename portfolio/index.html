@@ -20,7 +20,7 @@ Title: Brian Chuk | Portfolio
                 {% for proj in site.portfolio %}
                 <li class="{{ proj.cat }}" data-myorder="{{ proj.order }}">                    
                       <figure>
-                          <img src="{{ proj.img }}">
+                          <a href="{{ proj.url }}"><img src="{{ proj.img }}"></a>
                           <figcaption>
                               <h3>{{ proj.title }}</h3>
                               <span>{{ proj.date }}</span>
