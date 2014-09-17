@@ -11,13 +11,13 @@ It's been a long time since I've done any physical side project; the last time I
 
 I found a street sign that was just lying there on a platform in the Little Neck Long Island Railroad station. Days past, May showers came and left, and yet it stayed. On one lucky day, I saw the metal board get relocated to the inside of a trashcan&#8212;a clear indication that the board was of no use anymore. So I grabbed it (albeit clumsily because the board is almost 7 feet long), and hid it in a nearby bush since I was on my commute to high school. When I was on my way home, I picked up the board from the bush and left it in my backyard. Now, it's about time to bring it to life.
 
-###Let's build a longboard.
+###Let's build a longboard. :)
 <br>
 
 <center><img src="http://devchuk.github.io/res/img/portimg/longboard/closeup.jpg" alt="closeup.jpg" height="480" width="640"><br>
 <small><i>Closeup</i></small></center>
 
-On closer look, it's a fairly new white board with a couple holes in it for screws to hold the board up. The edges are a little bashed up, but that's fine. The board is a sandwich of two sheet metal buns with a thin sheet of corrugated plastic in between (think plastic in the form of thick cardboard boards).
+On closer look, it's a fairly new white board with a couple holes in it for screws to hold the board up. The corners are a little bashed up, but that's fine. The board is a sandwich of two sheet metal buns with a thin sheet of corrugated plastic in between (think plastic in the form of thick cardboard boards).
 
 Before I decided to use the board, I had to test to see if it was a viable material for a longboard first. I wanted to test how easy it was to cut into a shape I wanted, so I used a hacksaw to test how it held against it (hacksaws are meant to cut metal, but you can use them for pretty much anything). After a moderate amount of effort, the hacksaw left a clean straight line on the board, as you can see on the lower left corner of the board above. Then, I checked to see if the board was strong enough in the first place to hold my weight. I placed the board on two bricks, with the two bricks exactly under each end of the board. Bad idea haha. The board bent instantly under my weight and thus that's why we have a crook in the board in the photo above. I moved the bricks a lot closer together&#8212;about 30 inches apart, the length of a [Penny Nickel board](http://i00.i.aliimg.com/wsphoto/v0/623471618/free-shipping-font-b-Penny-b-font-font-b-Nickel-b-font-Skate-font-b-Board.jpg)&#8212;and the board held firmly even despite my jumping.
 
