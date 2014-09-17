@@ -12,6 +12,7 @@ It's been a long time since I've done any physical side project; the last time I
 I found a street sign that was just lying there on a platform in the Little Neck Long Island Railroad station. Days past, May showers came and left, and yet it stayed. On one lucky day, I saw the metal board get relocated to the inside of a trashcan&#8212;a clear indication that the board was of no use anymore. So I grabbed it (albeit clumsily because the board is almost 7 feet long), and hid it in a nearby bush since I was on my commute to high school. When I was on my way home, I picked up the board from the bush and left it in my backyard. Now, it's about time to bring it to life.
 
 ###Let's build a longboard.
+<br>
 
 <center><img src="http://devchuk.github.io/res/img/portimg/longboard/closeup.jpg" alt="closeup.jpg" height="480" width="640"><br>
 <small><i>Closeup</i></small></center>
@@ -26,3 +27,7 @@ Of course, I had to straighten the board back, so I bruteforced it into shape wi
 <small><i>See? All fixed!</i></small></center>
 
 After all that, I brought it with me into my dorm room. It's just leaning on the wall in the corner of my room. I found a makerspace with some decent tools called [Hack Manhattan](https://hackmanhattan.com/), and although they have a $50 membership, they have a open house every single Tuesday where you can just walk in and use their workshop. It won't be convenient lugging that 7 foot board into the 2 or 3 train, but it's the only option I have. That's all for now, I have [Hack the North](http://hackthenorth.com/) in Toronto this weekend and Cornell's [Big Red Hacks](http://www.bigredhacks.com/) the following weekend as well as [NY Comic Con](http://www.newyorkcomiccon.com/), [HackNY](http://hackny.org/a/spring2014hackathon/), and [YHack](http://www.yhack.org/) the following month so I might have to wait until November to finish this project.
+
+###Until next time,
+
+~ Brian Chuk
