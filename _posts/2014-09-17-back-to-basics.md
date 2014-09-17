@@ -3,7 +3,7 @@ layout: post
 title: Back to Basics
 ---
 
-<center><img src="http://devchuk.github.io/res/img/portimg/longboard/overview.jpg" alt="MHacks" height="338" width="450"></center>
+<center><img src="http://devchuk.github.io/res/img/portimg/longboard/overview.jpg" alt="overview.jpg" height="338" width="450"></center>
 
 It's been a long time since I've done any physical side project; the last time I made anything was around four weeks ago (the [camera balloon](http://devchuk.github.io/portfolio/miscellaneous/balloon.html).) Although I no longer have a fancy woodshop to sneak into in Stuyvesant or an even fancier professional makerspace like [Kite and Rocket](http://kiteandrocket.com/), it's nice to just use my two hands, a saw, a hammer, a drill, and a file.
 
@@ -13,7 +13,7 @@ I found a street sign that was just lying there on a platform in the Little Neck
 
 ###Let's build a longboard.
 
-<center><img src="http://devchuk.github.io/res/img/portimg/longboard/closeup.jpg" alt="rain" height="480" width="640"><br>
+<center><img src="http://devchuk.github.io/res/img/portimg/longboard/closeup.jpg" alt="closeup.jpg" height="480" width="640"><br>
 <small><i>Closeup</i></small></center>
 
 On closer look, it's a fairly new white board with a couple holes in it for screws to hold the board up. The edges are a little bashed up, but that's fine. The board is a sandwich of two sheet metal buns with a thin sheet of corrugated plastic in between (think plastic in the form of thick cardboard boards).
@@ -22,7 +22,7 @@ Before I decided to use the board, I had to test to see if it was a viable mater
 
 Of course, I had to straighten the board back, so I bruteforced it into shape with a hammer.
 
-<center><img src="http://devchuk.github.io/res/img/portimg/longboard/straight.jpg" alt="rain" height="480" width="640"><br>
+<center><img src="http://devchuk.github.io/res/img/portimg/longboard/straight.jpg" alt="straight.jpg" height="480" width="640"><br>
 <small><i>See? All fixed!</i></small></center>
 
 After all that, I brought it with me into my dorm room. It's just leaning on the wall in the corner of my room. I found a makerspace with some decent tools called [Hack Manhattan](https://hackmanhattan.com/), and although they have a $50 membership, they have a open house every single Tuesday where you can just walk in and use their workshop. It won't be convenient lugging that 7 foot board into the 2 or 3 train, but it's the only option I have. That's all for now, I have [Hack the North](http://hackthenorth.com/) in Toronto this weekend and Cornell's [Big Red Hacks](http://www.bigredhacks.com/) the following weekend as well as [NY Comic Con](http://www.newyorkcomiccon.com/), [HackNY](http://hackny.org/a/spring2014hackathon/), and [YHack](http://www.yhack.org/) the following month so I might have to wait until November to finish this project.
