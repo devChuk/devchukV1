@@ -5,7 +5,7 @@ title: Back to Basics
 
 <center><img src="http://devchuk.github.io/res/img/portimg/longboard/overview.jpg" alt="overview.jpg" height="338" width="450"></center>
 
-It's been a long time since I've done any physical side project; the last time I made anything was around four weeks ago (the [camera balloon](http://devchuk.github.io/portfolio/miscellaneous/balloon.html)). Although I no longer have a fancy woodshop to sneak into in Stuyvesant or an even fancier professional makerspace like [Kite and Rocket](http://kiteandrocket.com/), it's nice to just use my two hands, a saw, a hammer, a drill, and a file.
+It's been a long time since I've done any physical side project; the last time I made anything was around four weeks ago (the [camera balloon](http://devchuk.github.io/portfolio/miscellaneous/balloon.html)). Although I no longer have a fancy woodshop to sneak into in Stuyvesant or an even fancier professional makerspace like [Kite and Rocket](http://kiteandrocket.com/), it's nice to just use my own two hands, a saw, a hammer, a drill, and a file.
 
 <!---excerpt-->
 
