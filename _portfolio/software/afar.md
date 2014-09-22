@@ -16,7 +16,7 @@ I remember on a warm June afternoon on the streets in New York City my friends a
 
 In New York City and other densely populated places, it can take over 15 minutes for an ambulance to arrive in time to help one in need. In cases such as when people have cardiac arrest, it's common logic that every minute a victim's heart's not beating, the greater the chances of death. We need a way for people in medical emergencies to get help earlier. That's where <b>AFAR</b> comes in.
 
-###How does it work?</p>
+###How does it work?
 
 1. When a medical emergency happens with no medical professional or First Aid trained people nearby, the AFAR system will be notified of the emergency and its location via text messaging or a mobile app.
 2. The AFAR system will then send the emergency details to all program volunteers that have previously signed up and proved that they are qualified to perform first aid.
