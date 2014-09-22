@@ -1,7 +1,6 @@
 ---
 layout: project
-title: 	{% raw %}
-			AFAR{{:}} Advanced First Aid Response
+title: 	Advanced First Aid Response
 		{% endraw %}
 cat: mix category-2
 order: 18
