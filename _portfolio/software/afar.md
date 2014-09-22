@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 	Advanced First Aid Response
+title: 	The Advanced First Aid Response System
 cat: mix category-2
 order: 18
 date: Sept 2014
