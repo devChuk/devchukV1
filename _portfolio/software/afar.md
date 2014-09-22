@@ -1,7 +1,6 @@
 ---
 layout: project
 title: 	Advanced First Aid Response
-		{% endraw %}
 cat: mix category-2
 order: 18
 date: Sept 2014
