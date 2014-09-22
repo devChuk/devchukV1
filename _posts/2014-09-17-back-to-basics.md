@@ -5,13 +5,13 @@ title: Back to Basics
 
 <center><img src="http://devchuk.github.io/res/img/portimg/longboard/overview.jpg" alt="overview.jpg" height="338" width="450"></center>
 
-It's been a long time since I've done any physical side project; the last time I made anything was around four weeks ago (the [camera balloon](http://devchuk.github.io/portfolio/miscellaneous/balloon.html).) Although I no longer have a fancy woodshop to sneak into in Stuyvesant or an even fancier professional makerspace like [Kite and Rocket](http://kiteandrocket.com/), it's nice to just use my two hands, a saw, a hammer, a drill, and a file.
+It's been a long time since I've done any physical side project; the last time I made anything was around four weeks ago (the [camera balloon](http://devchuk.github.io/portfolio/miscellaneous/balloon.html)). Although I no longer have a fancy woodshop to sneak into in Stuyvesant or an even fancier professional makerspace like [Kite and Rocket](http://kiteandrocket.com/), it's nice to just use my own two hands, a saw, a hammer, a drill, and a file.
 
 <!---excerpt-->
 
 I found a street sign that was just lying there on a platform in the Little Neck Long Island Railroad station. Days past, May showers came and left, and yet it stayed. On one lucky day, I saw the metal board get relocated to the inside of a trashcan&#8212;a clear indication that the board was of no use anymore. So I grabbed it (albeit clumsily because the board is almost 7 feet long), and hid it in a nearby bush since I was on my commute to high school. When I was on my way home, I picked up the board from the bush and left it in my backyard. Now, it's about time to bring it to life.
 
-###Let's build a longboard. :)
+###Let's build a longboard.
 <br>
 
 <center><img src="http://devchuk.github.io/res/img/portimg/longboard/closeup.jpg" alt="closeup.jpg" height="480" width="640"><br>
