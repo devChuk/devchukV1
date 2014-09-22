@@ -1,6 +1,6 @@
 ---
 layout: project
-title: AFAR: Advanced First Aid Response
+title: AFAR{% raw %}:{% endraw %} Advanced First Aid Response
 cat: mix category-2
 order: 18
 date: Sept 2014
