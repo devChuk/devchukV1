@@ -8,7 +8,7 @@ img: ../res/img/portimg/afar/logo.png
 ---
 
 <center>[![Image not found](../../res/img/portimg/afar/landing.png)](http://devchuk.github.io/Afar)<br>
-<small><i>The landing page. Note the design recycling.</i></small></center><br><br>
+<small><i>The landing page. Note the design recycling.</i></small></center>
 
 I remember on a warm June afternoon on the streets in New York City my friends and I were heading to a park. As I was about to cross the street, I heard my friends yell for my name. When I turned, I saw a man who stopped breathing with some food lodged down the wrong pipe in his throat. The people there who were currently trying to help him clearly did not know first aid and were about to stick their fingers down his mouth. Thankfully, a man and I ran up to him and were able to save him with proper first aid training.
 
