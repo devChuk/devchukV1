@@ -23,8 +23,7 @@ In New York City and other densely populated places, it can take over 15 minutes
 3. At the same time, AFAR will also automatically call 911 or whatever emergency number corresponds to the country of the distress call, thus sending an ambulance or whatever service you need.
 4. Response to medical emergencies will increase and save lives.
 
-<center>![Image not found](../../res/img/portimg/afar/photos.jpg)<br>
-<small><i>The UIs</i></small></center>
+
 
 Key Features:
 
