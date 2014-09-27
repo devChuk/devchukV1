@@ -30,3 +30,6 @@ Key Features:
 * With the app, you can report emergencies in literally seconds. The app will automatically determine your location for you.
 * You can also very quickly search up instructions for all sorts of emergencies, such as allergies, burns, cuts, and head trauma.
 * The server will call the correct emergency number for you if you're in a different country. For example, it'll call 999 if the distress call is in Britain or 911 if the distress call is in USA/Canada. It'll also even speak in the right language for some countries. (Funny sidenote: We never really fully tested this feature because doing so will bring a ambulance to here).
+
+<br><br>
+Check out our source code [here](https://github.com/AFARsystem/).
