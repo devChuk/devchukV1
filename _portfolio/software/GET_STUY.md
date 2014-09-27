@@ -1,6 +1,7 @@
 ---
 layout: project
 title: GET STUY
+id: hobb
 cat: mix category-2
 order: 9
 date: Mar 2014

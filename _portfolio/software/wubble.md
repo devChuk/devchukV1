@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Wubble
+id: hobb
 cat: mix category-2
 order: 5
 date: Nov 2013

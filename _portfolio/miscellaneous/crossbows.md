@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Wooden Crossbows
+id: hobb
 cat: mix category-3
 order: 1
 date: Jan 2012 - Oct 2013

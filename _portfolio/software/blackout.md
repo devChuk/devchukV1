@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Blackout
+id: hobb
 cat: mix category-2
 order: 10
 date: May 2014

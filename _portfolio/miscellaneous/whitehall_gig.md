@@ -1,6 +1,7 @@
 ---
 layout: project
 title: 5 Plank Whitehall Gig
+id: hobb
 cat: mix category-3
 order: 7
 date: Jan 2014 - Mar 2014

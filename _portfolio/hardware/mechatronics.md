@@ -1,7 +1,8 @@
 ---
 layout: project
 title: Mechatronics Research
-cat: mix category-1
+id: prof
+cat: mix category-1 swagger
 order: 3
 date: Jun 2013 - Aug 2013
 img: ../res/img/portimg/mechatronics/rsz_caesar.jpg

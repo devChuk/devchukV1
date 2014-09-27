@@ -1,6 +1,7 @@
 ---
 layout: project
 title: YoShareThis
+id: hobb
 cat: mix category-2
 order: 15
 date: Jul 2014

@@ -1,6 +1,7 @@
 ---
 layout: project
 title: The Wooden Trike
+id: hobb
 cat: mix category-3
 order: 6
 date: Jan 2014

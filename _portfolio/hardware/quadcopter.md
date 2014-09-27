@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Quadcopters
+id: hobb
 cat: mix category-1
 order: 4
 date: Jun 2013 - Dec 2013

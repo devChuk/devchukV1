@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Robotic Arms
+id: hobb
 cat: mix category-1
 order: 2
 date: Jun 2012 - Mar 2013

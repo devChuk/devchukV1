@@ -5,6 +5,7 @@ Title: Brian Chuk | Portfolio
 <link rel="stylesheet" type="text/css" href="../res/css/portfolio.css">
 
 <center style="font-weight:bold">
+  <button class="button button-border-caution" id="professional">Show Professional Work</button><br><br>
   <label>Sort:</label>
   <span class="sort" data-sort="random"><button class="button button-border-caution" id="shuffle"><i class="fa fa-random" style="padding-right:1em"></i></button></span>
   <span class="sort" data-sort="myorder:desc"><button class="button button-border-caution" id="new">Newest First</button></span>
@@ -18,7 +19,7 @@ Title: Brian Chuk | Portfolio
           <div class="posts">
             <div id="Container" class="grid cs-style-2">
                 {% for proj in site.portfolio %}
-                <li class="{{ proj.cat }}" data-myorder="{{ proj.order }}">                    
+                <li class="{{ proj.cat }}" data-myorder="{{ proj.order }}" name="{{ proj.id }}">              
                       <figure>
                           <a href="{{ proj.url }}"><img src="{{ proj.img }}"></a>
                           <figcaption>
@@ -81,6 +82,19 @@ Title: Brian Chuk | Portfolio
         $( "#all" ).removeClass('disabled');
         $( "#hard" ).removeClass('disabled');
         $( "#soft" ).removeClass('disabled');
+  });
+  $( "#professional" ).click(function() {
+        console.log($(this).html());
+        if ($(this).html() == "Show Professional Work" || $(this).html() == "Hobbyist Work") {
+          $(this).html('Professional Work');
+          $( "li[name^='pro']" ).fadeIn();
+          $( "li[name^='hob']" ).fadeOut();
+        }
+        else {
+          $(this).html("Hobbyist Work");
+          $( "li[name^='pro']" ).fadeOut();
+          $( "li[name^='hob']" ).fadeIn();
+        }
   });
 
 </script>

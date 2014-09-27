@@ -1,6 +1,7 @@
 ---
 layout: project
 title: stuyscioly.github.io
+id: hobb
 cat: mix category-2
 order: 13
 date: Jun 2014 - Jul 2014

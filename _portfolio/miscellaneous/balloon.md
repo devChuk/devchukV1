@@ -1,7 +1,8 @@
 ---
 layout: project
 title: The Balloon Phone Flight
-cat: mix category-3
+id: prof
+cat: mix category-3 swagger
 order: 17
 date: Aug 2014
 img: ../res/img/portimg/balloon/float.jpg

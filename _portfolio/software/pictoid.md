@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Pictoid
+id: hobb
 cat: mix category-2
 order: 8
 date: Mar 2014
