@@ -25,4 +25,4 @@ In New York City and other densely populated places, it can take over 15 minutes
 1. When a medical emergency happens with no medical professional or First Aid trained people nearby, the AFAR system will be notified of the emergency and its location via text messaging or a mobile app.
 2. The AFAR system will then send the emergency details to all program volunteers that have previously signed up and proved that they are qualified to perform first aid.
 3. At the same time, AFAR will also automatically call 911 or whatever emergency number corresponds to the country of the distress call, thus sending an ambulance or whatever service you need.
-4. Response to medical emergencies will increase and save lives.
+4. Response to medical emergencies will increase and save lives.s
