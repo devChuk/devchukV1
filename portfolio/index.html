@@ -5,7 +5,7 @@ Title: Brian Chuk | Portfolio
 <link rel="stylesheet" type="text/css" href="../res/css/portfolio.css">
 
 <center style="font-weight:bold">
-  <button class="button button-border-caution" id="professional">Show Professional Work</button><br><br>
+  <button class="button button-border-caution" id="professional" style="width: 886px;">Show Professional Work Only</button><br><br>
   <label>Sort:</label>
   <span class="sort" data-sort="random"><button class="button button-border-caution" id="shuffle"><i class="fa fa-random" style="padding-right:1em"></i></button></span>
   <span class="sort" data-sort="myorder:desc"><button class="button button-border-caution" id="new">Newest First</button></span>
@@ -65,27 +65,35 @@ Title: Brian Chuk | Portfolio
         $( "#misc" ).removeClass('disabled');
   });
   $( "#hard" ).click(function() {
+        //$( "li[name^='pro']" ).show();
+        //$( "li[name^='hob']" ).show();
         $(this).addClass('disabled');
         $( "#all" ).removeClass('disabled');
         $( "#soft" ).removeClass('disabled');
         $( "#misc" ).removeClass('disabled');
+        $( "#professional" ).html('Show Professional Work Only');
 
   });
   $( "#soft" ).click(function() {
+        //$( "li[name^='pro']" ).show();
+        //$( "li[name^='hob']" ).show();
         $(this).addClass('disabled');
         $( "#all" ).removeClass('disabled');
         $( "#hard" ).removeClass('disabled');
         $( "#misc" ).removeClass('disabled');
+        $( "#professional" ).html('Show Professional Work Only');
   });
   $( "#misc" ).click(function() {
         $(this).addClass('disabled');
         $( "#all" ).removeClass('disabled');
         $( "#hard" ).removeClass('disabled');
         $( "#soft" ).removeClass('disabled');
+        $( "#professional" ).html('Show Professional Work Only');
   });
   $( "#professional" ).click(function() {
+        $('#Container').mixItUp('filter', ".category-1, .category-2, .category-3", false);
         console.log($(this).html());
-        if ($(this).html() == "Show Professional Work" || $(this).html() == "Hobbyist Work") {
+        if ($(this).html() == "Show Professional Work Only" || $(this).html() == "Hobbyist Work") {
           $(this).html('Professional Work');
           $( "li[name^='pro']" ).fadeIn();
           $( "li[name^='hob']" ).fadeOut();
