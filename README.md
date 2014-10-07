@@ -17,3 +17,6 @@ https://soundcloud.com/aprilnhem/siren
 idk I like to listen to music when coding.
 
 oh and I'll have to implement this: https://kraken.io/
+
+
+swaggger
