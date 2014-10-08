@@ -9,14 +9,3 @@ Run with
 Oh and on a totally related note I like this:
 
 http://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_01_Night_Owl
-
-Also this:
-
-https://soundcloud.com/aprilnhem/siren
-
-idk I like to listen to music when coding.
-
-oh and I'll have to implement this: https://kraken.io/
-
-
-swaggger
