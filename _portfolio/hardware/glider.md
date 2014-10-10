@@ -21,7 +21,7 @@ Electrical:
 >		abutton press switch
 >		VN2222 n-channel FET
 >		USB2Serial MicroUSB Arduino Mini connector
->		a9V battery
+>		a 9V battery
 >		a solenoid
 >		a protoboard
 >		soldering tools, skills, and a steady hand
