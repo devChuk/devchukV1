@@ -68,3 +68,5 @@ After that, I used a soldering iron and moved the parts from the breadboard onto
 <small><i>The final build. Only 45 cm long!</i></small></center>
 
 Once the electrical and programming components were done, I started the mechanical portion. The idea was to have the camera attached to the very front of the plane, thus giving a real point of view of the airplane. It turns out that the company's sponsor for the event, Hasbro, rejected the idea of a glider launch. Hasbro wasn't willing to risk the chance of the glider crashing into a person. Thus, we ended up having a normal balloon camera like [last time](http://devchuk.github.io/portfolio/miscellaneous/balloon.html).
+<br><br>
+View the release mechanism Arduino code [here](https://github.com/devChuk/Playing_With_Code/tree/gh-pages/hardware/glider%20release).
