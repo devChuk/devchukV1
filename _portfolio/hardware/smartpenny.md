@@ -22,16 +22,16 @@ Anyways, we still had no idea what to do with the hardware we had. But there was
 We decided on the materials as we went along. I'm going to list what we used here:
 
 >		an Intel Edison
->		a [Grove starter kit plus – Intel IoT Edition for Intel Galileo Gen 2
+>		a Grove starter kit plus – Intel IoT Edition for Intel Galileo Gen 2
 >		an Android device with data and GPS capabilities as well as a way to program it
 >		some form of lighting in preferably red because I like red
 
-The idea was to get out on the street, take out your phone, and input a location onto our self-programmed app. Then, the phone will transmit information to the board so as you're riding it towards an intersection, the board will tell you if you need to turn in order to get to your destination. The point of the lighting was to tell you when to turn. If the right side of the board lit up, then it would be telling you to turn right. If the left side lit up, turn left. If both sides were off, then go straight ahead.
+The idea was to get out on the street, take out your phone, and input a location onto our self-programmed app. Then, the phone will transmit information to the board so as you're riding it towards an intersection, the board will tell you if you need to turn in order to get to your destination. The point of the lighting was to tell you when to turn. If the right side of the board lit up, then it would be telling you to turn right. If the left side lit up, turn left. If both sides were off, then go straight ahead.<br><br>
 
 <center>![Image not found](../../res/img/portimg/pennypimping/held.png)<br>
 <small><i>Turn left</i></small></center><br>
 
-We started with me working on the Android app and Patrick working on the microcontroller. It was a disaster. Patrick had trouble being able to just program his microcontroller due to its faulty software, numerous errors, and poor documentation. I was not very productive with the Android app as well. This went on for around for what I believe was over 25 or so hours until we switched places. As Patrick's part, the Android app, started to show progress, I had nothing to show. He would exclaim "awww yeah" and in response I would saw "oh nooo" haha. Thankfully, I was able to ask the guys down at the Intel Developer Zone for help. Basically, in the first 29 hours were completely we had no idea what we were doing. It was only in the following 7 hours did everything go as smooth as butter.
+We started with me working on the Android app and Patrick working on the microcontroller. It was a disaster. Patrick had trouble being able to just program his microcontroller due to its faulty software, numerous errors, and poor documentation. I was not very productive with the Android app as well. This went on for around for what I believe was over 25 or so hours until we switched places. As Patrick's part, the Android app, started to show progress, I had nothing to show. He would exclaim "awww yeah" and in response I would saw "oh nooo" haha. Thankfully, I was able to ask the guys down at the Intel Developer Zone for help. Basically, in the first 29 hours were completely we had no idea what we were doing. It was only in the following 7 hours did everything go as smooth as butter.<br><br>
 
 <center>![Image not found](../../res/img/portimg/pennypimping/setup.png)<br>
 <small><i>The setup</i></small></center><br>
