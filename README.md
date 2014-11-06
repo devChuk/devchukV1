@@ -3,7 +3,7 @@ devchuk.github.io
 
 This is the website of Brian Chuk! It has a blog, portfolio, about page, and contact page.
 
-Run with
+Run with:
 > bundle exec jekyll serve --watch
 
 Oh and on a totally related note I like this:
