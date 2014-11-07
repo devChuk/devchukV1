@@ -46,6 +46,8 @@ In the last few hours, I finally figured out how to communicate between the boar
 
 Then, I wired the microcontroller to as many LEDs as possible&mdash;we ended up with 3 red LEDs on each side. I then <del>gracefully</del> attached the hardware to the bottom of the board with tape. In order to protect the Edison from debris & water that gets kicked up by the front wheels or collisions, we cut out a totally secure, custom-built cardboard box from a pizza box. It turns out that it was very easy to short the device because of all the naked electrical contact points, so we used tape in order to minimize that risk. After some testing, the hack was complete. We ran out of the building at freezing cold weather right before the submission deadline. I flew around on the street on the penny board to test it. Everything worked beautifully. As I chose a random destination close by and as I approached intersections, the sides of the board lit up and told me to turn when I had to.
 
+Also, we [won](http://challengepost.com/software/penny-pimping)! The prize is Nexus tablets, but I don't know whether they are Nexus 9 or Nexus 7. Time will tell.
+
 YHack was a massive amount of fun. It was the only hackathon I went to (and I know of) that had a rap battle during the hackathon. I also was able to borrow a second penny board, so Patrick and I went out to teach him how to skateboard at around 3 AM. It's too bad that the hackathon was in a far, isolated part of campus and the weather was cold and rainy that weekend.
 
 Speaking of him, we're already planning ahead for crazier hardware hacks we're going to create in the future, and this time we'll actually prepare for them. I'd like to revisit the idea of a smart longboard in the future. Maybe it'll be able to lock itself, thus allowing only the owner and those he allow to use it. What if we add turn signal blinkers, and an electric generator to charge your phone while skating? Maybe it'll have GPS location capabilities in case an owner lost the longboard. Many people I met automatically assumed that it was an electric skateboard, so that's definitely a must.<br><br>
@@ -60,3 +62,5 @@ Until next time..
 [The Android source code](https://github.com/PennyPimping/android)
 
 [The Edison source code](https://github.com/PennyPimping/Edison)
+
+[Our Challengepost page](http://challengepost.com/software/penny-pimping)
