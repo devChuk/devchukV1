@@ -1,7 +1,7 @@
 ---
 layout: project
 title: The SmartPenny
-id: prof
+id: hobb
 cat: mix category-1
 order: 20
 date: Nov 2014
