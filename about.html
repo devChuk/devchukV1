@@ -302,10 +302,10 @@
   {
     var now = new Date();
     tday=(now.getDate());
-    tmo=(now.getMonth());
+    tmo=(now.getMonth())+ 1;
     tyr=(now.getFullYear());
 
-    if((tmo > bmo)||(tmo==bmo & tday>=bday)) {
+    if(tmo >= bmo && tday >= bday) {
       age= byr;
     }
     else {
