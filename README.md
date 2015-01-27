@@ -13,3 +13,5 @@ Iwillredesignsoon
 
 
 new resume: https://www.dropbox.com/s/5pbvolszzrzqs19/Resume4.pdf?dl=0
+
+http://imgur.com/MPSSfXj
