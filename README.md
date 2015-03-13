@@ -9,8 +9,6 @@ Run with:
 
 
 
-new resume: https://www.dropbox.com/s/5pbvolszzrzqs19/Resume4.pdf?dl=0
-
 http://imgur.com/MPSSfXj
 
 new color may be #99000 
