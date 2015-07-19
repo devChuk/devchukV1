@@ -5,12 +5,3 @@ This is the website of Brian Chuk! It has a blog, portfolio, about page, and con
 
 Run with:
 > bundle exec jekyll serve --watch
-
-
-
-
-http://imgur.com/MPSSfXj
-
-new color may be #99000 
-
-http://christiangimber.com/
