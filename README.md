@@ -1,7 +1,9 @@
-devchuk.github.io
+devchukV1
 =================
 
-This is the website of Brian Chuk! It has a blog, portfolio, about page, and contact page.
+This was actually the second website I've ever made. It's retired now :D
+
+Please see [brianch.uk](brianch.uk) for the new version
 
 Run with:
 > bundle exec jekyll serve --watch
