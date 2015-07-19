@@ -16,8 +16,8 @@ collections:
 title:            'Brian Chuk'
 tagline:          'A personal website'
 description:      'A personal website of Brian Chuk'
-url:              http://devchuk.github.io
-baseurl:          devchukV1
+url:              http://devchuk.github.io/devchukV1
+baseurl:          /devchukV1
 
 author:
   name:           'Brian Chuk'
