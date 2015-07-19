@@ -12,7 +12,7 @@ Title: Archive
 <ul>
   {% for post in site.posts %}
     <div>
-      <span><a title="{{ post.date | date_to_string }}"href="{{ post.url }}">{{ post.title }}</a></span>
+      <span><a title="{{ post.date | date_to_string }}"href="/devchukV1{{ post.url }}">{{ post.title }}</a></span>
       <small style="float:right">{{ post.date | date_to_long_string }}</small>
     </div>
   {% endfor %}
