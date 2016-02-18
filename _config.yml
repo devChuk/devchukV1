@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rogue
 
 exclude: ['YEAR-MM-DD-example-content.md']
 
