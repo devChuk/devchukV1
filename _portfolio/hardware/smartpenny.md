@@ -17,7 +17,7 @@ But there a small pinhole of light in the darkness. Intel Maker Kits were being 
 
 Anyways, we still had no idea what to do with the hardware we had. But there was another small pinhole that the light shone through. I had brought my penny board to Yhack because I bring it with me everywhere. That was it. We were going to hack on a skateboard. After some brainstorming (electric longboard, temperature sensors with LEDs to tell the weather), we decided to prioritize on one idea.
 
-###GPS navigation on a penny board
+### GPS navigation on a penny board
 
 We decided on the materials as we went along. I'm going to list what we used here:
 
