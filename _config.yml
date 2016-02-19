@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      rogue
+highlighter:      rouge
 
 exclude: ['YEAR-MM-DD-example-content.md']
 
