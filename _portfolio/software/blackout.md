@@ -8,7 +8,7 @@ date: May 2014
 img: ../res/img/portimg/blackout/blackout.png
 ---
 
-<center>![Image not found](../../res/img/portimg/blackout/blackout.png)
+<center><img src="../../../res/img/portimg/blackout/blackout.png">
 <div><small><i>Shhh</i></small></div></center><br>
 
 For [HackNYU](http://patentpendingnyu.org/2-uncategorised/14-hack-nyu-hackathon), I teamed up with [Timotius](http://timsitorus.com/), [Victor](http://vjiaoblack.github.io/), and [Genji](http://genjinoguchi.github.io/) to build Blackout.

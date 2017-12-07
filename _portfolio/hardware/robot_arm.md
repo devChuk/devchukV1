@@ -8,7 +8,7 @@ date: Jun 2012 - Mar 2013
 img: ../res/img/portimg/robot_arm/rsz_robot_arm.jpg
 ---
 
-<center>![Image not found](../../res/img/portimg/robot_arm/robot_arm.jpg)<br>
+<center><img src="../../../res/img/portimg/robot_arm/robot_arm.jpg"><br>
 <small><i>The Robot Arms 2013</i></small></center>
 <br>
 The Robot Arm is a device I built with teammates in high school for Science Olympiad competitions, where it placed 8th place at both the regional and state level. It features two robotic arms and two control boxes with Ethernet cable detachability for each driver. The arms were also equipped with potentiometers for autonomous operation.
@@ -28,7 +28,7 @@ The arms were mainly built with VEX parts and an Arduino. We combined electric m
 Working on the robot arms were the most fun and influential times I've had during high school. If it weren't for the event leader of the event, [Naoki Cho](http://naokicho.com/), I would not have been so interested in Electrical Engineering and Mechatronics or be able to use the Arduino.
 <br>
 <br>
-<center>![Image not found](../../res/img/portimg/robot_arm/control.jpg)<br>
+<center><img src="../../../res/img/portimg/robot_arm/control.jpg"><br>
 <small><i>The control box of the robot arm</i></small></center>
 <br>
 <br>

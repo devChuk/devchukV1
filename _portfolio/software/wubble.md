@@ -8,7 +8,7 @@ date: Nov 2013
 img: ../res/img/portimg/wubble/rsz_wubble.png
 ---
 
-<center>[![Image not found](../../res/img/portimg/wubble/rsz2_wubble.png)](http://devchuk.github.io/Wubble/)<br>
+<center><a href="http://devchuk.github.io/Wubble/"><img src="../../../res/img/portimg/wubble/rsz2_wubble.png"></a><br>
 <small><i>The Wubble page</i></small></center>
 <br>
 <br>

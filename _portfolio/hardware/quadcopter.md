@@ -8,7 +8,7 @@ date: Jun 2013 - Dec 2013
 img: ../res/img/portimg/quadcopters/quadcopters_thumb.jpg
 ---
 
-<center>![Image not found](../../res/img/portimg/quadcopters/quadcopters.jpg)</center>
+<center><img src="../../../res/img/portimg/quadcopters/quadcopters.jpg"></center>
 <br>
 <br>
 After the robot arm project, a friend and I started the quadcopter project. The many uses and abilities of UAVs fascinated me so I decided to try to understand them by building one from scratch.

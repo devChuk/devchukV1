@@ -41,19 +41,19 @@ Mechanical:
 
 The releasing mechanism was first built. The way it works it pretty simple. You turn it on. You press the countdown button. And then you release the balloon. After a specified amount of seconds a green LED would light up and the releasing mechanism would release the glider. To do the countdown, an .ino program was created.
 
-<center>![Image not found](../../res/img/portimg/glider/code.png)<br>
+<center><img src="../../../res/img/portimg/glider/code.png"><br>
 <small><i>The program</i></small></center><br><br>
 
 After that, I created the circuit for the releasing mechanism. 
 
-<center>![Image not found](../../res/img/portimg/glider/schem.jpg)
-		![Image not found](../../res/img/portimg/glider/1.jpg)<br>
+<center><img src="../../../res/img/portimg/glider/schem.jpg">
+		<img src="../../../res/img/portimg/glider/1.jpg"><br>
 <small><i>Prototyping</i></small></center>
 
 To be honest, I didn't plan out the circuit before I finished building the circuit. I just created each part of the circuit(the LED, the button, and the mechanical releaser) and connected them all together. I guess now that I think about it, most of the things I built which I had no idea how to engineer were all made without planning. It's a lot easier to create something and continue to modify it to solve any issues you notice instead of trying to predict all issues from the very beginning. Of course, planning should be done for in situations where you're working with expensive parts, complicated systems, or parts that are hard to undo modifications.
 
-<center>![Image not found](../../res/img/portimg/glider/2.jpg)<br>
-		![Image not found](../../res/img/portimg/glider/3.jpg)<br>
+<center><img src="../../../res/img/portimg/glider/2.jpg"><br>
+		<img src="../../../res/img/portimg/glider/3.jpg"><br>
 <small><i>Uploading</i></small></center>
 
 Unlike other Arduinos, the Arduino mini is so tiny that it does not have a port to direct connect to the computer. Instead, a USB to Serial MicroUSB Arduino Mini connector is required, and the connector communicates to the Arduino through its own pins. This meant that I had to make sure that I could attach the connector to the circuit if I ever had to upload code to the Arduino. In the test run below, the releasing mechanism is set at a two second countdown for the sake of faster testing.
@@ -62,9 +62,9 @@ Unlike other Arduinos, the Arduino mini is so tiny that it does not have a port 
 
 After that, I used a soldering iron and moved the parts from the breadboard onto a protoboard. For those who don't know, solderings is when one melts an alloy with a 600&deg; F tool called a soldering iron in order to join metals together when the alloy cools down. The protoboard circuit is the same as the breadboard circuit other than the use of the blue on-and-off button press switch.
 
-<center>![Image not found](../../res/img/portimg/glider/4.jpg)
-		![Image not found](../../res/img/portimg/glider/5.jpg)
-		![Image not found](../../res/img/portimg/glider/6.jpg)<br>
+<center><img src="../../../res/img/portimg/glider/4.jpg">
+		<img src="../../../res/img/portimg/glider/5.jpg">
+		<img src="../../../res/img/portimg/glider/6.jpg"><br>
 <small><i>The final build. Only 45 cm long!</i></small></center>
 
 Once the electrical and programming components were done, I started the mechanical portion. The idea was to have the camera attached to the very front of the plane, thus giving a real point of view of the airplane. It turns out that the company's sponsor for the event, Hasbro, rejected the idea of a glider launch. Hasbro wasn't willing to risk the chance of the glider crashing into a person. Thus, we ended up having a normal balloon camera like [last time](http://devchuk.github.io/portfolio/miscellaneous/balloon.html).

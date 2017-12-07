@@ -8,7 +8,7 @@ date: Mar 2014
 img: ../res/img/portimg/GET_STUY/GET_STUY.png
 ---
 
-<center>[![Image not found](../../res/img/portimg/GET_STUY/stuy.png)](http://devchuk.github.io/GET_STUY/)
+<center><a href="http://devchuk.github.io/GET_STUY/"><img src="../../../res/img/portimg/GET_STUY/stuy.png"></a>
 <div><small><i>Can you make it into Stuyvesant High School?</i></small></div></center><br>
 
 GET_STUY was a small hack I made within an hour during [HackBCA](http://hackbca.com/) that was a spoof of the game that was a massive fad in 2014, [2048](http://gabrielecirulli.github.io/2048/).
